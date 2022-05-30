@@ -1,2 +1,2 @@
 # SNAKE
-Yet another snake game
+Play snake in terminal.
