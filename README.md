@@ -1,2 +1,2 @@
-# SNAKE
+# snake
 Play snake in terminal.
